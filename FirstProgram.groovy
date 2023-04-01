@@ -1,3 +1,6 @@
+// Groovy Program to demo comments, print function
+
+// This program uses Java Class & main function boiler plate
 class FirstProgram{
     static void main(args){
         // Single Line Comment
